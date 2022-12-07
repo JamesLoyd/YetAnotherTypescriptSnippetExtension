@@ -1,0 +1,1 @@
+This is a set of snippets for typescript development. This is still in development at the moment while more are added.
