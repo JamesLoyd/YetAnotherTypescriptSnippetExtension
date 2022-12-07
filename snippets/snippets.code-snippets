@@ -1,0 +1,12 @@
+{
+	"Console log interpolation": {
+	  "prefix": ["console", "console-interpolation"],
+	  "body": ["console.log(`$1 ${2:is} ${$3}`)"],
+	  "description": "Easy console interporlation log statement"
+	},
+	"Const Helper": {
+		"prefix": ["const", "const-prop"],
+		"body":["const $1 = $2;"],
+		"description": "easy const helper"
+	}
+  }
